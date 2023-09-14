@@ -10,28 +10,28 @@ $(document).ready(function () {
 		{
 			title: "Let You Down",
 			artist: "NF",
-			cover: "https://github.com/iamdarkv/002/blob/main/img/1.jpg",
+			cover: "https://github.com/iamdarkv/002/blob/main/img/2.jpg",
 			audioFile: "https://github.com/iamdarkv/002/blob/main/mp3/2.mp3",
 			color: "#25323b"
 		},
 		{
 			title: "Silence",
 			artist: "Marshmello, Khalid",
-			cover: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/silence-album-cover.jpg",
+			cover: "https://github.com/iamdarkv/002/blob/main/img/3.jpg",
 			audioFile: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/Marshmello%20-%20Silence%20ft.%20Khalid.mp3",
 			color: "#c1c1c1"
 		},
 		{
 			title: "I Fall Apart",
 			artist: "Post Malone",
-			cover: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/stoney-cover-album.jpg",
+			cover: "https://github.com/iamdarkv/002/blob/main/img/4.jpg",
 			audioFile: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/Post%20Malone%20-%20I%20Fall%20Apart.mp3",
 			color: "#cd4829"
 		},
 		{
 			title: "Fireproof",
 			artist: "VAX, Teddy Sky",
-			cover: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/fireproof-album-cover.jpeg",
+			cover: "https://github.com/iamdarkv/002/blob/main/img/5.jpg",
 			audioFile: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/VAX%20-%20Fireproof%20Feat%20Teddy%20Sky.mp3",
 			color: "#5d0126"
 		}
