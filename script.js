@@ -1,25 +1,17 @@
-/*
- * Icons by:
- * Font Awesome – http://fontawesome.io/
- * Those Icons – https://www.flaticon.com/authors/those-icons
- * EpicCoders – https://www.flaticon.com/authors/epiccoders
- * Smashicons – https://www.flaticon.com/authors/smashicons
- */
-
 $(document).ready(function () {
 	var songs = [
 		{
-			title: "rockstar",
-			artist: "Post Malone, 21 Savage",
-			cover: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/rockstar-album-cover.jpg",
-			audioFile: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/Post%20Malone%20-%20rockstar%20ft.%2021%20Savage%20(1).mp3",
+			title: "哪里都是你",
+			artist: "Young Captain",
+			cover: "https://github.com/iamdarkv/002/blob/main/img/1.jpg",
+			audioFile: "https://github.com/iamdarkv/002/blob/main/mp3/1.mp3",
 			color: "#c3af50"
 		},
 		{
 			title: "Let You Down",
 			artist: "NF",
-			cover: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/perception-album-cover.png",
-			audioFile: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/NF%20-%20Let%20You%20Down.mp3",
+			cover: "https://github.com/iamdarkv/002/blob/main/img/1.jpg",
+			audioFile: "https://github.com/iamdarkv/002/blob/main/mp3/2.mp3",
 			color: "#25323b"
 		},
 		{
